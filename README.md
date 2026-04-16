@@ -1,6 +1,10 @@
 # Pipeline Memory Agent
 
-> A Claude-powered agent that builds persistent memory of your data pipelines — run history, anomaly patterns, and self-healing logic that gets smarter over time.
+[![CI](https://github.com/Snehabankapalli/pipeline-memory-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Snehabankapalli/pipeline-memory-agent/actions/workflows/ci.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> A Claude-powered agent that builds persistent memory of your data pipelines, run history, anomaly patterns, and self-healing logic that gets smarter over time.
 
 Most monitoring tools alert you when something breaks. This agent **remembers** why things broke, what fixed it, and gets better at predicting failures before they happen.
 
