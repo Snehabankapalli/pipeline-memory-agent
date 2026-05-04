@@ -10,6 +10,9 @@ Most monitoring tools alert you when something breaks. This agent **remembers** 
 
 ---
 
+![Demo](demo.svg)
+
+
 ## What It Does
 
 | Capability | Description |
